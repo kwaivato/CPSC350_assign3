@@ -8,7 +8,7 @@ iv. checker.cpp/checker.h: a checker class used to check errors in a syntax chec
 v. GenStack.cpp/GenStack.h: a generic class for an array-based stack of any type.
 vi. StackEmpty.cpp: an error class used to handle cases of an empty stack.
 vii. RuntimeException.cpp: a parent error class that can be implemented for a given need.
-
+viii. Make: make-file for entire program
 
 (Inline Comments) To run the programs in Docker using g++, type the following commands: 1) g++ *.cpp -o assign3 2) ./assign3 [FileName]
 
